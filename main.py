@@ -1,0 +1,10 @@
+name = input("이름: ")
+s_num = int(input("학번: "))
+dep = input("학과: ")
+uni = input("학교: ")
+
+print("\n<출력>")
+print(name)
+print(s_num)
+print(dep)
+print(uni)
